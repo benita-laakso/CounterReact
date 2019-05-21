@@ -1,0 +1,21 @@
+.Main {
+  height: 800px;
+}
+
+.circle { margin: 100px;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  line-height: 200px;
+  border-radius: 50%;
+}
+.even{
+  background-color: blue;
+}
+.odd{
+  background-color: red;
+}
+
+.new {
+  background-color: brown;
+}
